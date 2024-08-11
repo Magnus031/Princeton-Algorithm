@@ -1,0 +1,17 @@
+<component name="libraryTable">
+  <library name="algs4">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/.lift/algs4.jar!/" />
+      <root url="file://$PROJECT_DIR$/../../CS61B/library-sp21/javalib" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="https://algs4.cs.princeton.edu/code/javadoc" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/.lift/algs4.jar!/" />
+      <root url="file://$PROJECT_DIR$/../../CS61B/library-sp21/javalib" />
+    </SOURCES>
+    <jarDirectory url="file://$PROJECT_DIR$/../../CS61B/library-sp21/javalib" recursive="false" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../CS61B/library-sp21/javalib" recursive="false" type="SOURCES" />
+  </library>
+</component>
